@@ -1,0 +1,83 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  header {
+    background: linear-gradient(to right, #009688, #00BCD4);
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  header h1 {
+    font-size: 3rem;
+  }
+  
+  .btn {
+    display: inline-block;
+    background: #FF5722;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 1rem;
+  }
+  
+  .section {
+    background: white;
+    margin: 2rem auto;
+    padding: 2rem;
+    width: 90%;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .section h2 {
+    color: #009688;
+  }
+  
+  a {
+    color: #FF5722;
+    text-decoration: none;
+  }
+  
+  footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover;
+    margin-bottom: 1rem;
+    border: 3px solid #fff; /* White border around the picture */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  body {
+    font-family: 'Poppins', Arial, sans-serif; /* Main website font */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; /* Bold for headings */
+  }
+  
+  p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300; /* Light font for paragraphs */
+  }
+  
